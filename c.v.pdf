@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+       <title>
+           Embedding PDF in HTML
+       </title>
+
+</head>
+<body>
+       <center>
+       <h1>Embedding PDFs</h1>
+       </center>
+       <h1>HTML Basic PDF</h1>
+
+       <embed src="c.v.pdf" type="application/pdf" /> 
+       
+</body>
+</html>
